@@ -1,6 +1,6 @@
 version: '2'
 services:
-  zazzn:
+  eawong12:
     build: .
     container_name: teleport
     restart: unless-stopped
